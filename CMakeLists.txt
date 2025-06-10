@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(LeetCodeSolutions)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(two_sum_test Two_Sum/cpp/test_two_sum.cpp)
+add_executable(basic_calculator_test Basic_Calculator/cpp/test_basic_calculator.cpp)
+add_executable(basic_calculator_ii_test Basic_Calculator_II/cpp/test_basic_calculator_ii.cpp)
+add_executable(basic_calculator_iii_test Basic_Calculator_III/cpp/test_basic_calculator_iii.cpp)
+add_executable(serialize_deserialize_test Serialize_And_Deserialize_Binary_Tree/cpp/test_serialize_and_deserialize_binary_tree.cpp)
