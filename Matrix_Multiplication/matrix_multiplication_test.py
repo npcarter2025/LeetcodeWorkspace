@@ -1,7 +1,6 @@
 #!/Users/nathancarter/anaconda3/bin/python3
 from matrix_multiplication import matmul
 import random 
-
 import numpy as np 
 
 
