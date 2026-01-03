@@ -34,3 +34,7 @@ cmake-build-*/
 
 # Python bytecode cache directories
 __pycache__/ 
+
+
+# ignore executables
+dd
